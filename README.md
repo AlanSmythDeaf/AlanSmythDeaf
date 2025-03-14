@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Smyth</h1>
 <h3 align="center">Code Institute's Full Stack Student | Currently working as a Social Media Officer & Administrator</h3>
 
-- 🔭 I’m currently working on **Project 4 Portfolio Project (CRUD)**
+- 🔭 I’m currently working on **Project 5 Portfolio Project (e-commerce)**
 
 - 🌱 I’m currently learning **Database Managment Systems & Django**
 
